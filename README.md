@@ -44,8 +44,8 @@ var_dump($Ipstack->getInfo($multipleAddresses));
 | Flag | Description | Note |
 | --- | --- | --- |
 | `hostname` | Enable Ipstack hostname lookup. | - |
-| `security` | Enable Ipstack security module. | Paid plan **required**, refer to [pricing](https://ipstack.com/product). |
-| `https` | Make request to endpoint over HTTPS. | - |
+| `security` | Enable Ipstack security module. | Paid plan required, refer to [pricing](https://ipstack.com/product). |
+| `https` | Make request to endpoint over HTTPS. | Paid plan required, refer to [pricing](https://ipstack.com/product). |
 | `debug` | Return API JSON response on failure instead of `false`. | - |
 
 ## License
