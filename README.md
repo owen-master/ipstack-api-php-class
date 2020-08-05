@@ -6,17 +6,17 @@ You can view the official documentation for Ipstack.com at <https://ipstack.com/
 
 ## Installation
 
-Add **class.ipstack.php** to your project folder.
+Add **ipstack.class.php** to your project folder.
 
 ```bash
-include_once('./class.ipstack.php');
+include_once('./ipstack.class.php');
 ```
 
 ## Usage
 Refer to the below example for class usage:
 ```php
 // Include class:
-include_once('./class.ipstack.php');
+include_once('./ipstack.class.php');
 
 // Specify construct options:
 $options = [
